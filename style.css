@@ -1,0 +1,7 @@
+body {background-color: #B8B8B8 }
+  #menu{} 
+	.menuItem{border:10px solid black;float:left;}
+	.menuItem{padding:20px 30px 20px 30px;}
+	.menuItem:hover{background-color:pink;}
+	 #menu a {color:#380000;}
+    
